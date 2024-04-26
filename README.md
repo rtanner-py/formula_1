@@ -43,4 +43,4 @@ Expected Scores:
 $E_A = \frac{1}{1+10(R_B - R_A) / 400}$
 
 Update rating:
-$R`_A = R_A + K \cdot (S_A - E_A)$
+$R^`_A = R_A + K \cdot (S_A - E_A)$
